@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.4.1 -mcpu=cortex-m0 -mthumb -g -nostartfiles -Map=STM32F0-555CapTimer.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\STM32F0-555CapTimer -TC:\CooCox\CoIDE\configuration\ProgramData\STM32F0-555CapTimer/arm-gcc-link.ld -g">
+      <target file="STM32F0-555CapTimer.elf" lastModified="14b70708818">
+         <source file="..\obj\stm32f0xx_rcc.o" lastModified="14b700d2863"/>
+         <source file="..\obj\main.o" lastModified="14b70708366"/>
+         <source file="..\obj\startup_stm32f0xx.o" lastModified="14b700d2ac3"/>
+         <source file="..\obj\system_stm32f0xx_temp.o" lastModified="14b700d2c69"/>
+         <source file="..\obj\stm32f0xx_gpio.o" lastModified="14b700d2ea7"/>
+         <source file="..\obj\stm32f0xx_tim.o" lastModified="14b700d3135"/>
+         <source file="..\obj\stm32f0xx_misc.o" lastModified="14b701af279"/>
+      </target>
+   </processor>
+</history>
